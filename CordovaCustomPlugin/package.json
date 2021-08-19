@@ -1,0 +1,17 @@
+{
+  "name": "info.androidabcd.plugins.custom)info.androidabcd.plugins.custom",
+  "version": "1.0.0",
+  "description": "This is my first plugin by Yisus",
+  "cordova": {
+    "id": "info.androidabcd.plugins.custom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Yisus Serrano",
+  "license": "ISC"
+}
